@@ -1,0 +1,9 @@
+export { default as Dashboard } from "./Dashboard";
+export { default as Event } from "./Event";
+export { default as Alumni } from "./Alumni";
+export { default as Attendence } from "./Attendence";
+export { default as Applications } from "./Applications";
+export { default as Resources } from "./Resources";
+export { default as Feedback } from "./Feedback";
+export { default as Timetables } from "./Timetables";
+export { default as Login } from "./Login";
